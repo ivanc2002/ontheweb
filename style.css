@@ -1,3 +1,15 @@
-background-color {
-	color: 15202B;
+body {
+	background-color: #15202B
+}
+
+p {
+	color: white;
+}
+
+h1 {
+	color: white;
+}
+
+h2 {
+	color: white;
 }
